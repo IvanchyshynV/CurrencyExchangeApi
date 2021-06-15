@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzTAfv23FMYtyzL7A3FvB21U7Mssj4Qt/S/DhovTfE0XLhUSETpGOWIZ8sUWVBZao7Pjm4AKT54c1cGoDH570w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Володя\\source\\repos\\CurrencyExchangeApi\\CurrencyExchangeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Володя\\.nuget\\packages\\awssdk.core\\3.7.0.31\\awssdk.core.3.7.0.31.nupkg.sha512",
+    "C:\\Users\\Володя\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.30\\awssdk.dynamodbv2.3.7.0.30.nupkg.sha512",
+    "C:\\Users\\Володя\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Володя\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Володя\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Володя\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Володя\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Володя\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Володя\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
